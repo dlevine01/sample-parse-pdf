@@ -1,7 +1,7 @@
 ipykernel
 pandas
-camelot-py
+camelot-py[base]
 pypdf
-python-poppler
+pdftopng
 beautifulsoup4
 requests

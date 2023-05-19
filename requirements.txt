@@ -1,0 +1,7 @@
+ipykernel
+pandas
+camelot-py
+pypdf
+poppler
+beautifulsoup4
+requests

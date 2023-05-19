@@ -2,6 +2,6 @@ ipykernel
 pandas
 camelot-py
 pypdf
-poppler
+python-poppler
 beautifulsoup4
 requests

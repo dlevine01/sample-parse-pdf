@@ -5,6 +5,7 @@ dependencies:
  - ipykernel
  - pandas
  - camelot-py
+ - opencv-python=4.5.5.64
  - pypdf
  - pdftopng
  - beautifulsoup4

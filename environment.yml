@@ -1,12 +1,13 @@
 name: parse-pdf
 channels:
-  - conda-forge
+  - defaults
 dependencies:
- - ipykernel
- - pandas
- - camelot-py
- - opencv
- - pypdf
- - pdftopng
- - beautifulsoup4
- - requests
+  - requests
+  - pandas
+  - beautifulsoup4
+  - ipykernel
+  - pypdf
+  - camelot-py
+  - pdftopng
+  - pip
+prefix: /opt/anaconda3/envs/parse-pdf

@@ -1,0 +1,11 @@
+name: parse-pdf
+channels:
+  - conda-forge
+dependencies:
+ - ipykernel
+ - pandas
+ - camelot-py
+ - pypdf
+ - pdftopng
+ - beautifulsoup4
+ - requests

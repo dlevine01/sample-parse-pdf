@@ -1,7 +1,0 @@
-ipykernel
-pandas
-camelot-py[base]
-pypdf
-pdftopng
-beautifulsoup4
-requests

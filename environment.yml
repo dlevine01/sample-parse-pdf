@@ -13,3 +13,4 @@ dependencies:
   - pypdf
   - requests
   - opencv-python-headless
+  - tqdm
